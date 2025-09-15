@@ -7,6 +7,8 @@ android {
     namespace = "com.senai.vehicleequalizerapp"
     compileSdk = 36
 
+    buildFeatures.aidl = true
+
     defaultConfig {
         applicationId = "com.senai.vehicleequalizerapp"
         minSdk = 24
