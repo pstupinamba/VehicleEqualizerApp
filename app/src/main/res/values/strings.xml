@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">VehicleEqualizerApp</string>
+    <string name="title_text">Controle do Equalizador de Áudio</string>
+    <string name="equalizer_switch_text">Equalizador Ativado</string>
+    <string name="bass_label">Graves</string>
+    <string name="mid_label">Médios</string>
+    <string name="treble_label">Agudos</string>
 </resources>
